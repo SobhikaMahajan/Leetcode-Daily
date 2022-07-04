@@ -6,11 +6,11 @@ In this repository I will be putting all my solutions to daily leetcode/GFG/Code
 
 
 ## Project Submission for Microsoft Enagage 2022
-**Sobhika Mahajan**
+Sobhika Mahajan
 
-**B.Tech Computer Science**
+B.Tech Computer Science
 
-**Banasthali Vidyapith**
+Banasthali Vidyapith
 
 
 
