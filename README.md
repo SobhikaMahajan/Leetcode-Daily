@@ -1,6 +1,5 @@
-<img src="https://cdn.cdo.mit.edu/wp-content/uploads/sites/67/2021/01/0_zuhXdNAIUoxEem4-.png" width=10% height=auto>
 
-# Leetcode-Daily
+# Leetcode-Daily <img src="https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.png" width=2% height=auto>
 In this repository I will be putting all my solutions to daily leetcode questions I attempt.
 
 ## Reach Me
